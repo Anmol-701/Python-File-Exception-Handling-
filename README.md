@@ -16,3 +16,11 @@ The content of this repository includes:
 1. __Examples__: A collection of practical examples demonstrating various file handling and exception handling scenarios in Python, including reading and writing files, handling different types of exceptions, using try-except blocks, handling file errors, and more.
 2. __Tutorials__: Step-by-step tutorials explaining how to implement file handling and exception handling techniques in Python, along with code samples and explanations.
 3. __Best Practices__: Guidelines and recommendations for writing clean and efficient file handling and exception handling code in Python.
+4. __FAQs__: Assignment Questions related to Python file handling and exception handling, addressing common queries and concerns.
+
+The repository will be regularly updated with new content, ensuring a comprehensive resource for learning and mastering file handling and exception handling in Python.
+
+
+Feel free to use, modify, and distribute the content in this repository for educational and non-commercial purposes. However, please make sure to provide appropriate attribution to the original source.
+
+Happy learning and coding with Python file and exception handling!
